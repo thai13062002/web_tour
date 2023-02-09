@@ -1,2 +1,3 @@
 # web đặt vé du lịch trực tuyến
-# sử dụng ngông ngữ PHP
+# sử dụng ngôn ngữ PHP và my ssql
+
