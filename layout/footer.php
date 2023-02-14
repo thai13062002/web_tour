@@ -10,7 +10,7 @@
       <a
         class="btn btn-primary btn-floating m-1"
         style="background-color: #3b5998;"
-        href="https://www.facebook.com/100146892494379"
+        href="#"
         role="button"
         ><i class="fab fa-facebook-f" style="font-size:25px;"></i
       ></a>
@@ -37,7 +37,7 @@
       <a
         class="btn btn-primary btn-floating m-1"
         style="background-color: #ac2bac;"
-        href="https://www.instagram.com/namdzdz511/"
+        href="#"
         role="button"
         ><i class="fab fa-instagram"></i
       ></a>
@@ -54,7 +54,7 @@
       <a
         class="btn btn-primary btn-floating m-1"
         style="background-color: #333333;"
-        href="https://github.com/manh612001"
+        href="#"
         role="button"
         ><i class="fab fa-github"></i>
       </a>
@@ -87,7 +87,7 @@
             Thành viên
           </h6>
           <p>
-            <a href="#!" class="text-reset">Nam</a>
+            <a href="#!" class="text-reset">Thái đẹp zai nhất nhà</a>
           </p>
           <p>
             <a href="#!" class="text-reset">Mạnh</a>
@@ -102,7 +102,7 @@
         <!-- Grid column -->
 
         <!-- Grid column -->
-        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
           <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">
             Services
@@ -123,7 +123,7 @@
         <!-- Grid column -->
 
         <!-- Grid column -->
-        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+        <div class="col-md-5 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
           <!-- Links -->
           <h6 class="text-uppercase fw-bold mb-4">
             Contact
@@ -131,7 +131,7 @@
           <p><i class="fas fa-home me-3"></i>175 Tây Sơn, Đống Đa, Hà Nội</p>
           <p>
             <i class="fas fa-envelope me-3"></i>
-            BlackWhite@inyourarea@gmail.com
+            BlackWhite@gmail.com
           </p>
           <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
           

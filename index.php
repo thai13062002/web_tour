@@ -8,7 +8,7 @@
 ?>
 
 
-<div id="demo" class="carousel slide" data-ride="carousel" style="margin-top:85px;">
+<div id="demo" class="carousel slide" data-ride="carousel" >
 
 <!-- Indicators -->
 <ul class="carousel-indicators" style="bottom:40px;">
